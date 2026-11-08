@@ -34,6 +34,11 @@ Para uso em apenas um projeto, substitua o destino por `<projeto>/.claude/agents
 
 **Limitação importante:** a inclusão nesta biblioteca não instala os agentes automaticamente em um computador. Vários agentes fazem referência às skills, documentos e configurações do template CCGS (como `project.yaml`, `.claude/docs/`, `.claude/skills/`). Para os fluxos completos do estúdio, configure também o projeto de origem. O formato dos agentes foi desenvolvido para Claude Code e não garante compatibilidade direta com Codex ou Cursor.
 
+## Agentes nativos do Codex
+
+- [**Instalação e validação dos 49 agentes no Codex**](./codex/README.md): arquivos TOML compatíveis com Codex, validação de hashes e instalador global para Windows, macOS e Linux.
+- Os arquivos originais em `definitions/` continuam intocados; a pasta `codex/agents/` contém as versões adaptadas.
+
 ## Atualizações
 
 O [manifest.json](./manifest.json) registra os 49 caminhos originais e os hashes dos blobs, permitindo comparar novas versões antes de substituir customizações locais.

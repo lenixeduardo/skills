@@ -1,0 +1,25 @@
+name: Validate Codex CCGS agents
+
+on:
+  push:
+    paths:
+      - 'agents/claude-code-game-studios/**'
+      - '.github/workflows/validate-codex-ccgs.yml'
+  pull_request:
+    paths:
+      - 'agents/claude-code-game-studios/**'
+      - '.github/workflows/validate-codex-ccgs.yml'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate native Codex agents
+        run: python agents/claude-code-game-studios/codex/manage.py validate
+      - name: Validate installer dry run
+        run: python agents/claude-code-game-studios/codex/manage.py install --dry-run

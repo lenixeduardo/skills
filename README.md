@@ -60,4 +60,4 @@ Coisas soltas que salvam tempo.
 
 ## Agentes de desenvolvimento de jogos
 
-- [**Claude Code Game Studios — 49 agentes**](./agents/claude-code-game-studios/README.md): coleção de subagentes para Godot, Unity, Unreal, programação, arte, áudio, QA e produção. Definições preservadas com licença MIT; instalação global documentada no link.
+- [**Claude Code Game Studios — 49 agentes**](./agents/claude-code-game-studios/README.md): agentes para Claude Code e [versões nativas TOML instaláveis no Codex](./agents/claude-code-game-studios/codex/README.md), incluindo Godot, Unity, Unreal, programação, arte, áudio e QA.
