@@ -1,0 +1,303 @@
+{
+  "name": "claude-code-game-studios",
+  "source_repository": "Donchitos/Claude-Code-Game-Studios",
+  "source_commit": "05ad7c8a5b8aa2aa86bbd3439ae7cf7295cac418",
+  "source_version": "v1.2.0",
+  "agent_count": 49,
+  "files": [
+    {
+      "name": "accessibility-specialist",
+      "source_path": ".claude/agents/accessibility-specialist.md",
+      "path": "definitions/accessibility-specialist.md",
+      "source_blob_sha": "d96657099b3fd4aa4b07a201eedea5ab360a0df1"
+    },
+    {
+      "name": "ai-programmer",
+      "source_path": ".claude/agents/ai-programmer.md",
+      "path": "definitions/ai-programmer.md",
+      "source_blob_sha": "63d987822a5264f4d4392a2c00356fa34e750afd"
+    },
+    {
+      "name": "analytics-engineer",
+      "source_path": ".claude/agents/analytics-engineer.md",
+      "path": "definitions/analytics-engineer.md",
+      "source_blob_sha": "7a142754f29c8f75fafd1cc66155784583a3a868"
+    },
+    {
+      "name": "art-director",
+      "source_path": ".claude/agents/art-director.md",
+      "path": "definitions/art-director.md",
+      "source_blob_sha": "61f3b7c89c4988213d9e209bcb1eb1928d91cd5e"
+    },
+    {
+      "name": "audio-director",
+      "source_path": ".claude/agents/audio-director.md",
+      "path": "definitions/audio-director.md",
+      "source_blob_sha": "844b7a4eb88245f02efeb007e442ca68796fead8"
+    },
+    {
+      "name": "community-manager",
+      "source_path": ".claude/agents/community-manager.md",
+      "path": "definitions/community-manager.md",
+      "source_blob_sha": "88d6a75ef38f9c1ef4e3ff1e253f1d569af37a69"
+    },
+    {
+      "name": "creative-director",
+      "source_path": ".claude/agents/creative-director.md",
+      "path": "definitions/creative-director.md",
+      "source_blob_sha": "e8aba2307844ed8fccdcf0c910da45b4d7139fdc"
+    },
+    {
+      "name": "devops-engineer",
+      "source_path": ".claude/agents/devops-engineer.md",
+      "path": "definitions/devops-engineer.md",
+      "source_blob_sha": "63c7f028a9e4b24945993425851fb6ba5d3af9aa"
+    },
+    {
+      "name": "economy-designer",
+      "source_path": ".claude/agents/economy-designer.md",
+      "path": "definitions/economy-designer.md",
+      "source_blob_sha": "cdf64577197632c4c2e7d44b34591ea9a4ff1b5f"
+    },
+    {
+      "name": "engine-programmer",
+      "source_path": ".claude/agents/engine-programmer.md",
+      "path": "definitions/engine-programmer.md",
+      "source_blob_sha": "761480b34f6be4e544ed16dd1202dd6bf7e78363"
+    },
+    {
+      "name": "game-designer",
+      "source_path": ".claude/agents/game-designer.md",
+      "path": "definitions/game-designer.md",
+      "source_blob_sha": "a6fde98a81c720b86dd2fbc7b10b9af719709291"
+    },
+    {
+      "name": "gameplay-programmer",
+      "source_path": ".claude/agents/gameplay-programmer.md",
+      "path": "definitions/gameplay-programmer.md",
+      "source_blob_sha": "1dc8c8503bad5efc2c5b5b7c5d2bd1fdd4a84070"
+    },
+    {
+      "name": "godot-csharp-specialist",
+      "source_path": ".claude/agents/godot-csharp-specialist.md",
+      "path": "definitions/godot-csharp-specialist.md",
+      "source_blob_sha": "eeb2ab8b4fa4bb06e8c7a2bd03d903417cfa336f"
+    },
+    {
+      "name": "godot-gdextension-specialist",
+      "source_path": ".claude/agents/godot-gdextension-specialist.md",
+      "path": "definitions/godot-gdextension-specialist.md",
+      "source_blob_sha": "3185d8ec08f907460dbc35d8f71e24dbd59ae572"
+    },
+    {
+      "name": "godot-gdscript-specialist",
+      "source_path": ".claude/agents/godot-gdscript-specialist.md",
+      "path": "definitions/godot-gdscript-specialist.md",
+      "source_blob_sha": "11e3a257268f75a11961b3432787afd6c4e87cad"
+    },
+    {
+      "name": "godot-shader-specialist",
+      "source_path": ".claude/agents/godot-shader-specialist.md",
+      "path": "definitions/godot-shader-specialist.md",
+      "source_blob_sha": "9ab5802fe909e1a282b36833f7789533ceaa58ef"
+    },
+    {
+      "name": "godot-specialist",
+      "source_path": ".claude/agents/godot-specialist.md",
+      "path": "definitions/godot-specialist.md",
+      "source_blob_sha": "6c1c90e4d9a809c66ba50a9fc8c53cb7fe22c976"
+    },
+    {
+      "name": "lead-programmer",
+      "source_path": ".claude/agents/lead-programmer.md",
+      "path": "definitions/lead-programmer.md",
+      "source_blob_sha": "52f473681f6b6574fd94656aaca3ebce7f70af24"
+    },
+    {
+      "name": "level-designer",
+      "source_path": ".claude/agents/level-designer.md",
+      "path": "definitions/level-designer.md",
+      "source_blob_sha": "2b2d7f430f52870fefc93a5e8fc531300e8b732a"
+    },
+    {
+      "name": "live-ops-designer",
+      "source_path": ".claude/agents/live-ops-designer.md",
+      "path": "definitions/live-ops-designer.md",
+      "source_blob_sha": "b4c47168ba656310682eb5753225d2410f227831"
+    },
+    {
+      "name": "localization-lead",
+      "source_path": ".claude/agents/localization-lead.md",
+      "path": "definitions/localization-lead.md",
+      "source_blob_sha": "ad48095044524cbe27cbd1df5622a664b8b2b157"
+    },
+    {
+      "name": "narrative-director",
+      "source_path": ".claude/agents/narrative-director.md",
+      "path": "definitions/narrative-director.md",
+      "source_blob_sha": "2c2a741fffba684deb954f163caf1d53ed3928a8"
+    },
+    {
+      "name": "network-programmer",
+      "source_path": ".claude/agents/network-programmer.md",
+      "path": "definitions/network-programmer.md",
+      "source_blob_sha": "12a40909e96474c7bca4976d1b5f687d3250df6c"
+    },
+    {
+      "name": "performance-analyst",
+      "source_path": ".claude/agents/performance-analyst.md",
+      "path": "definitions/performance-analyst.md",
+      "source_blob_sha": "86da2413611ebbf4fae732d9b1be12d24c678566"
+    },
+    {
+      "name": "producer",
+      "source_path": ".claude/agents/producer.md",
+      "path": "definitions/producer.md",
+      "source_blob_sha": "a188502eaa3dfd36fa1c5b0f3248c6f927e0fa03"
+    },
+    {
+      "name": "prototyper",
+      "source_path": ".claude/agents/prototyper.md",
+      "path": "definitions/prototyper.md",
+      "source_blob_sha": "830e6cfe51418b0910797d4edac3fd3a7cb6caa9"
+    },
+    {
+      "name": "qa-lead",
+      "source_path": ".claude/agents/qa-lead.md",
+      "path": "definitions/qa-lead.md",
+      "source_blob_sha": "c005cadbb73e89fa67590279592f1b6db08c2cea"
+    },
+    {
+      "name": "qa-tester",
+      "source_path": ".claude/agents/qa-tester.md",
+      "path": "definitions/qa-tester.md",
+      "source_blob_sha": "326d3336af18d1c1f5717a84d3d16d754095a3a5"
+    },
+    {
+      "name": "release-manager",
+      "source_path": ".claude/agents/release-manager.md",
+      "path": "definitions/release-manager.md",
+      "source_blob_sha": "123fe64c83e698d8f0ec73c1a071439c9cd9a7bc"
+    },
+    {
+      "name": "security-engineer",
+      "source_path": ".claude/agents/security-engineer.md",
+      "path": "definitions/security-engineer.md",
+      "source_blob_sha": "6a7430319ef36cc1e1515010d044d8bf8f833044"
+    },
+    {
+      "name": "sound-designer",
+      "source_path": ".claude/agents/sound-designer.md",
+      "path": "definitions/sound-designer.md",
+      "source_blob_sha": "ab57cf8b0f9ea6232fd5e34ba1d0d16779428600"
+    },
+    {
+      "name": "systems-designer",
+      "source_path": ".claude/agents/systems-designer.md",
+      "path": "definitions/systems-designer.md",
+      "source_blob_sha": "0a75aa1dd9a1356627da1864309d8ec3d4532e85"
+    },
+    {
+      "name": "technical-artist",
+      "source_path": ".claude/agents/technical-artist.md",
+      "path": "definitions/technical-artist.md",
+      "source_blob_sha": "c8f69c957ce91216fe085ea598dff3ca5b2b53a1"
+    },
+    {
+      "name": "technical-director",
+      "source_path": ".claude/agents/technical-director.md",
+      "path": "definitions/technical-director.md",
+      "source_blob_sha": "ff2f6d533eef35049db78614e02aef8b50d58f03"
+    },
+    {
+      "name": "tools-programmer",
+      "source_path": ".claude/agents/tools-programmer.md",
+      "path": "definitions/tools-programmer.md",
+      "source_blob_sha": "ea0361828a77f00f37067ca760ac5cbad952654a"
+    },
+    {
+      "name": "ue-blueprint-specialist",
+      "source_path": ".claude/agents/ue-blueprint-specialist.md",
+      "path": "definitions/ue-blueprint-specialist.md",
+      "source_blob_sha": "85d2bda268dd264e2937c47e755feb039883a8a2"
+    },
+    {
+      "name": "ue-gas-specialist",
+      "source_path": ".claude/agents/ue-gas-specialist.md",
+      "path": "definitions/ue-gas-specialist.md",
+      "source_blob_sha": "74a44ed1e5dbf1dd682c9dd915e92b427dee0972"
+    },
+    {
+      "name": "ue-replication-specialist",
+      "source_path": ".claude/agents/ue-replication-specialist.md",
+      "path": "definitions/ue-replication-specialist.md",
+      "source_blob_sha": "9dd763a5d567b9ddda6baa9cf3f1e4732aac108c"
+    },
+    {
+      "name": "ue-umg-specialist",
+      "source_path": ".claude/agents/ue-umg-specialist.md",
+      "path": "definitions/ue-umg-specialist.md",
+      "source_blob_sha": "7500cd5fe8b6b3a3aaebe485eb48c62c27e55f89"
+    },
+    {
+      "name": "ui-programmer",
+      "source_path": ".claude/agents/ui-programmer.md",
+      "path": "definitions/ui-programmer.md",
+      "source_blob_sha": "eec8aea4b9783cfc79796b34b24d7553de575270"
+    },
+    {
+      "name": "unity-addressables-specialist",
+      "source_path": ".claude/agents/unity-addressables-specialist.md",
+      "path": "definitions/unity-addressables-specialist.md",
+      "source_blob_sha": "23c00e6907086e620d65bac991b47945f44dc721"
+    },
+    {
+      "name": "unity-dots-specialist",
+      "source_path": ".claude/agents/unity-dots-specialist.md",
+      "path": "definitions/unity-dots-specialist.md",
+      "source_blob_sha": "98676554d2961edd1bbc80857fe1d86537f679bc"
+    },
+    {
+      "name": "unity-shader-specialist",
+      "source_path": ".claude/agents/unity-shader-specialist.md",
+      "path": "definitions/unity-shader-specialist.md",
+      "source_blob_sha": "6b062303c42e0bfa295b711e1cfed4942fd5c9b4"
+    },
+    {
+      "name": "unity-specialist",
+      "source_path": ".claude/agents/unity-specialist.md",
+      "path": "definitions/unity-specialist.md",
+      "source_blob_sha": "eb415162dfca591a2263cb20fbc8711bbfa165e5"
+    },
+    {
+      "name": "unity-ui-specialist",
+      "source_path": ".claude/agents/unity-ui-specialist.md",
+      "path": "definitions/unity-ui-specialist.md",
+      "source_blob_sha": "60dd25158c7e5b5302f8129148d2dd39b4896095"
+    },
+    {
+      "name": "unreal-specialist",
+      "source_path": ".claude/agents/unreal-specialist.md",
+      "path": "definitions/unreal-specialist.md",
+      "source_blob_sha": "dec5f70473995490ce62f8ac3a274feed2593080"
+    },
+    {
+      "name": "ux-designer",
+      "source_path": ".claude/agents/ux-designer.md",
+      "path": "definitions/ux-designer.md",
+      "source_blob_sha": "ced35d6dac5225592403e22e1add6c629a6eb65f"
+    },
+    {
+      "name": "world-builder",
+      "source_path": ".claude/agents/world-builder.md",
+      "path": "definitions/world-builder.md",
+      "source_blob_sha": "0e130faabfa41af9c0761fbec335ce9a4da16937"
+    },
+    {
+      "name": "writer",
+      "source_path": ".claude/agents/writer.md",
+      "path": "definitions/writer.md",
+      "source_blob_sha": "351f5c51efd7e49dea47f87ecbd81178c9829ca2"
+    }
+  ]
+}
